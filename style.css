@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.header{
+    width: 100%;
+}
+img{
+    height: 300px;
+    width: 300px;
+}
+hr{
+    border: 3px;
+    color: white;
+    width: 30%;
+}
+.portfolio-items img:hover{
+  opacity: 0.9;
+}
+.about-para{
+    width: 80%;
+}
+form input{
+    width: 30%;
+    height: 50px;
+}
+form label{
+    width: 150px;
+}
